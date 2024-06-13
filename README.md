@@ -1,1 +1,1 @@
-# Flight Booking APP with Django
+# Space Booking APP with Django
